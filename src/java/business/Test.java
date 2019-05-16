@@ -1,3 +1,5 @@
-Public Class Test(){
+package business;
 
+public class Test{
+    
 }
